@@ -1,9 +1,10 @@
-# Rimworld-Together-DiscordAddon
-Discord webhook extension for Rimworld Together
+# Discord webhook extension for Rimworld Together
+
 ![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/834b6611-25fb-4247-836b-42a1857a5230)
 
-![Rimworld Together Server](https://github.com/Nova-Atomic/Rimworld-Together)
-![Rimworld Together Mod Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691)
+[Rimworld Together Server](https://github.com/Nova-Atomic/Rimworld-Together)
+[Rimworld Together Mod Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691)
+
 If the developers don't want this to exist I will remove it
 
 # How to use
