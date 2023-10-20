@@ -37,7 +37,7 @@ If the developers don't want this to exist I will remove it
 
 ## Config
 
-- Reload commands also reload the configuration
+- Reload command also reload the configuration
 ```json
 {
   "webhook_url": "",
