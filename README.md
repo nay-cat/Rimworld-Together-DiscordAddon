@@ -16,7 +16,7 @@ If the developers don't want this to exist I will remove it
 - Open `DiscordAddonRimworldTogether.exe`
 ![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/22323783-0eac-4f28-b60d-46246eb3500c)
 
-You will see this
+- You will see this
 ![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/11af317e-15cb-4931-8962-c43730cffc80)
 
 - Go to your desired channel and create a webhook, then copy the url
