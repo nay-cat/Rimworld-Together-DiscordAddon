@@ -1,4 +1,4 @@
-![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/ad662e31-47d0-4c68-bc9a-408c5db09a0f)# Rimworld-Together-DiscordAddon
+# Rimworld-Together-DiscordAddon
 Discord webhook extension for Rimworld Together
 ![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/834b6611-25fb-4247-836b-42a1857a5230)
 
