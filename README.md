@@ -38,6 +38,10 @@ If the developers don't want this to exist I will remove it
 ## Config
 
 - Reload command also reload the configuration
+
+![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/64d8889f-adeb-494f-94d9-d9000de01db9)
+
+
 ```json
 {
   "webhook_url": "",
