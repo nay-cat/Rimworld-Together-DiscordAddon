@@ -8,7 +8,7 @@
 If the developers don't want this to exist I will remove it
 
 # How to use
-Drag the files to the server folder
+Drag the downloaded files into the server folder
 ![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/7d1a1b20-b9cc-4689-8799-ae66568e7277)
 Open `DiscordAddonRimworldTogether.exe`
 ![image](https://github.com/nay-cat/Rimworld-Together-DiscordAddon/assets/63517637/22323783-0eac-4f28-b60d-46246eb3500c)
