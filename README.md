@@ -57,4 +57,8 @@
 }
 ```
 
+# Errors?
+
+> Make sure to download https://dotnet.microsoft.com/es-es/download/dotnet/6.0 to use this
+
 
